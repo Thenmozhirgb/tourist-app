@@ -1,0 +1,362 @@
+[
+    {
+        "cities-id": 10,
+        "places": [
+            {
+                "placesId": 100,
+                "placesName": "Marinabeach",
+                "description": "Marina Beach is a natural urban beach in Chennai, Tamil Nadu, India, along the Bay of Bengal.[1] The beach runs from near Fort St. George in the north to Foreshore Estate in the south, a distance of 6.0 km (3.7 mi),[2] making it the longest natural urban beach in the country.[3][4][5] The Marina is primarily sandy, unlike the short, rocky formations that make up the Juhu Beach in Mumbai.",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/en/3/36/Bay_of_Bengal%2C_Marina_Beach%2C_Chennai.jpg"
+            },
+            {
+                "placesId": 101,
+                "placesName": "Semmozhi Poonga",
+                "description": "Semmozhi Poonga literally translated to Classical Language Park is a botanical garden in Chennai set up jointly by the Horticulture and Agricultural Engineering department of the Government of Tamil Nadu. The garden was opened on 24 November 2010 by then chief Minister Dr.M. Karunanidhi and is the first botanical garden in the city.",
+                "imageUrl": "https://1.bp.blogspot.com/-SPwuYabSWWI/TmWy1ndXOvI/AAAAAAAABmw/QiobUddGBTY/s1600/DSCN1350.JPG"
+            },
+            {
+                "placesId": 102,
+                "placesName": "Vadapalani Murugan Temple",
+                "description": "Built around 1890, this temple began as a simple thatched shed. Around 7,000 couples marry there each year. The moolavar in standing posture resembles Palani Murugan. In the inner prakara, many niches house Dakshina Murti, Chandikeswar, Mahalakshmi, and others. It has a spacious hall used for marriages and religious discourse. It is one of the most-frequented Murugan shrines in Chennai.                ",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Vadapalani_murugan_temple_tank.jpg/1200px-Vadapalani_murugan_temple_tank.jpg"
+            },
+            {
+                "placesId": 103,
+                "placesName": "Gunidy National Park",
+                "description": "Guindy National Park is a 2.70 km2 (1.04 sq mi) protected area of Tamil Nadu, located in Chennai, India, is the 8th-smallest National Park of India and one of the very few national parks situated inside a city. The park is an extension of the grounds surrounding Raj Bhavan, formerly known as the 'Guindy Lodge', the official residence of the Governor of Tamil Nadu, India. It extends deep inside the governor's estate, enclosing beautiful forests, scrub lands, lakes and streams.",
+                "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRAYiziOqUBxfMbd8QP55O4dR4bQET-873fpg&usqp=CAU"
+            },
+            {
+                "placesId": 104,
+                "placesName": "Gandhi Mandapam",
+                "description": "Gandhi Mandapam is a series of memorial structures built on Sardar Patel Road, in Adyar, Chennai. The first structure to be built on the premises was a memorial to Mahatma Gandhi, opened by then Chief Minister of Madras, C. Rajagopalachari on 27 January 1956. Later, four other memorials for independence activist Rettamalai Srinivasan and former chief ministers C. Rajagopalachari, K. Kamaraj and M. Bhakthavatsalam were added.",
+                "imageUrl": "https://www.makemytrip.com/travel-guide/media/dg_image/kanyakumari/Mahatma-Gandhi-Memorial-in-Kanyakumari-Tony-Jones-wikimedia.jpg"
+            },
+            {
+                "placesId": 105,
+                "placesName": "Anna Tower",
+                "description": "Anna Nagar Tower Park, officially known as Dr Visvesvaraya Tower Park, is an urban park in the suburb of Anna Nagar, Chennai. It is the tallest park tower in Chennai.This park hosts a statue of Lise Meitner. The tower has been closed for the public. However the park is still open",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Anna_Nagar_Tower_Park_From_Entrance_20Jan2013.jpg/260px-Anna_Nagar_Tower_Park_From_Entrance_20Jan2013.jpg"
+            }
+        ]
+    },
+    {
+        "cities-id": 11,
+        "places": [
+            {
+                "placesId": 106,
+                "placesName": "Botanical Garden",
+                "description": "",
+                "imageUrl": "https://english.mathrubhumi.com/polopoly_fs/1.4884876.1594021333!/image/image.jpg_gen/derivatives/landscape_894_577/image.jpg"
+            },
+            {
+                "placesId": 107,
+                "placesName": "Ooty Boat House",
+                "description": "",
+                "imageUrl": "https://4.bp.blogspot.com/-qVo3ilfytWg/UDCZbvyoWqI/AAAAAAAAAkY/irh4EO5Pyes/s1600/ooty+boat+house.jpg"
+            },
+            {
+                "placesId": 108,
+                "placesName": "Avalache Lake",
+                "description": "",
+                "imageUrl": "https://media.istockphoto.com/photos/scenic-mountain-views-avalanche-lake-glacier-national-park-mon-picture-id466456902?k=6&m=466456902&s=612x612&w=0&h=QeOPaov3jXYTShqOn0F0zm2aKe3Yrwx_tomoA4KvhBA="
+            },
+            {
+                "placesId": 109,
+                "placesName": "Doddabetta Peak",
+                "description": "",
+                "imageUrl": "https://i.ytimg.com/vi/OhFxyQBva9w/hqdefault.jpg"
+            }
+        ]
+    },
+    {
+        "cities-id": 12,
+        "places": [
+            {
+                "placesId": 110,
+                "placesName": "Shore Temple",
+                "description": "",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/attr_1136_20190221171841jpg"
+            },
+            {
+                "placesId": 111,
+                "placesName": "Mahabhalipuram Beach",
+                "description": "",
+                "imageUrl": "https://www.holidify.com/images/compressed/5738.jpg"
+            },
+            {
+                "placesId": 112,
+                "placesName": "Kirshna's Butter Ball",
+                "description": "",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/attr_123724_20200710092926.jpg"
+            },
+            {
+                "placesId": 113,
+                "placesName": "Arjuna's Penance",
+                "description": "",
+                "imageUrl": "https://www.holidify.com/images/compressed/attractions/attr_1824.jpg"
+            }
+        ]
+    },
+    {
+        "cities-id": 13,
+        "places": [
+            {
+                "placesId": 114,
+                "placesName": "Chinnakanal Waterfall",
+                "description": "",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/4751_20200528125345.jpg"
+            },
+            {
+                "placesId": 115,
+                "placesName": "Rose Garden",
+                "description": "",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/97679810_20170425125830.jpg"
+            },
+            {
+                "placesId": 116,
+                "placesName": "Blossom Park",
+                "description": "",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/blossom-hydel-park(1)_20180310142242.jpg"
+            },
+            {
+                "placesId": 117,
+                "placesName": "Pallivasal Tea Garden",
+                "description": "",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/Munnar_%2528Kerala%2529_Tea_Gardens_20190116151814.jpg"
+            }
+        ]
+    },
+    {
+        "cities-id": 14,
+        "places": [
+            {
+                "placesId": 118,
+                "placesName": "Pookode Lake",
+                "description": "",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_720958156_20191118144315_20191118144333.jpg"
+            },
+            {
+                "placesId": 119,
+                "placesName": "Karapuzha Dam",
+                "description": "",
+                "imageUrl": "https://www.holidify.com/images/compressed/3795.jpg"
+            },
+            {
+                "placesId": 120,
+                "placesName": "E3 Theme Park",
+                "description": "",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/Waterfalls_20190815175317.jpg"
+            },
+            {
+                "placesId": 121,
+                "placesName": "Meenumutty",
+                "description": "",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/1200px-Meenmutty_Falls_20180111204928.jpg"
+            }
+        ]
+    },
+    {
+        "cities-id": 15,
+        "places": [
+            {
+                "placesId": 121,
+                "placesName": "Mattancherry Palace",
+                "description": "",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/attr_1101_20190412091253.jpg"
+            },
+            {
+                "placesId": 122,
+                "placesName": "Willingdon Island",
+                "description": "",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/Kochi_port_20170421162911.jpg"
+            },
+            {
+                "placesId": 123,
+                "placesName": "Fishing Nets",
+                "description": "",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/Chinese-Fishing-Nets_20190418150128.jpg"
+            },
+            {
+                "placesId": 124,
+                "placesName": "Fort Kochi",
+                "description": "",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/shutterstock_1090370855_20190705172314.jpg"
+            }
+        ]
+    },
+    {
+        "cities-id": 16,
+        "places": [
+            {
+                "placesId": 125,
+                "placesName": "Omkareshwara Temple",
+                "description": "",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/16571758256_6ae6dfaaf2_b_20190903184005.jpg"
+            },
+            {
+                "placesId": 126,
+                "placesName": "Brahmagiri Trek",
+                "description": "",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/1543903124-1520587791-Kunti-betta-trek_20200528131903.jpg"
+            },
+            {
+                "placesId": 127,
+                "placesName": "Rameshwara Temple",
+                "description": "",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/unnamed_20200528113534.jpg"
+            },
+            {
+                "placesId": 128,
+                "placesName": "Coffee Plantations in Coorg",
+                "description": "",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/800px-Coorg-_tea_estate_20190125234140.jpg"
+            }
+        ]
+    },
+    {
+        "cities-id": 17,
+        "places": [
+            {
+                "placesId": 129,
+                "placesName": "Bangalore Palace",
+                "description": "The majestic Bangalore palace, enclosed by beautiful gardens, is a famous tourist attraction in Bangalore. It is now owned by the Mysore Royal family.",
+                "imageUrl": "https://holidify.com/images/attr_wiki/compressed/attr_wiki_353.jpg"
+            },
+            {
+                "placesId": 130,
+                "placesName": "Tipu sultan's Palace",
+                "description": "This monument is located inside the Tipu Sultan Fort. Built between 1781 and 1791, the Emperor referred to it as the 'Rash-e-Jannat' which means the abode of happiness and envy of heaven.",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/Tipu_Sultan's_Summer_Palace_Enterance_Gate_20180722182238.JPG"
+            },
+            {
+                "placesId": 131,
+                "placesName": "Indira Gandhi Musical Fountain Park",
+                "description": "Created in 1995 by B. N. A. Technology Consulting Limited, Hong Kong, Indira Gandhi Musical Fountain is probably the most technically advanced and one of the biggest artificially created fountains in India. Located on T. Chowdaiah Road, the enthralling fountain has been based on multimedia technology, MIDI interfaces and hardware architecture.",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/4551039401_cb6c83aff6_z_20190325101559_20190325101614.jpg"
+            },
+            {
+                "placesId": 132,
+                "placesName": "Ulsoor Lake",
+                "description": "One of the largest lakes in Bangalore, the Ulsoor Lake is sprawled over an area of 50 hectares. Ulsoor lake was built by Sir Lewin Bentham Bowring, who was Bangalore's commissioner at that time. Sit back or walk in the periphery of the park or click a few shots of the endemic birds that call this destination their home. One of the most popular activities in Ulsoor Lake is boating.",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/6136776259_b62c055291_b_20190513123510.jpg"
+            }
+        ]
+    },
+    {
+        "cities-id": 18,
+        "places": [
+            {
+                "placesId": 132,
+                "placesName": "Brindavan Gardens",
+                "description": "The Brindavan Gardens, spread over 60 acres, is located at a distance of 21 km away from Mysore. Built across the notable river of India, Cauvery, it took around five years to complete the project. The well-synchronised fountain show with music, boating and well-manicured grass with flowerbeds are some of the top experiences of Brindavan Garden.",
+                "imageUrl": "https://holidify.com/images/attr_wiki/compressed/attr_wiki_764.jpg"
+            },
+            {
+                "placesId": 133,
+                "placesName": "Bonsai Garden",
+                "description": "One of the more unique attractions of the Royal Mysore, the Bonsai Garden of Mysore is home to over a 100 different varieties of Bonsai trees spread across this vast estate. It is a part of the Avadoota Datta Peetham of the Sri Ganapathi Sachidananda Ashrama. Initially a pet project by the fascinated Swamiji, the garden now hosts 450 miniature tree across an area of 4 acres, filled with these quirky dwarf trees. ",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/B_20180307004329.jpg"
+            },
+            {
+                "placesId": 134,
+                "placesName": "Jaganmohan Palace",
+                "description": "Situated in the royal city of Mysore, the Jaganmohan Palace is a spectacular edifice that has an illustrious history attached to its name. It was used by the Wodeyars of Mysore when their main residence Amba Vilas Palace was under renovations post a fire incident. It is one of the seven palaces that are situated in the city and is counted as one of the most beautiful contributions of the Wodeyar Kings of the city during their reign",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/2805_20190222165507jpg"
+            },
+            {
+                "placesId": 135,
+                "placesName": "Rail Museum",
+                "description": "The Mysore Rail Museum is the second of its kind in India, right after the National Railways Museum of Delhi. The museum depicts the journey and development of the Indian railways through an opulent collection of photographs and various other exhibits, housing a plethora of information and insight into the intricacies of the railway engine.",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/R12_20171005123815.PNG"
+            }
+        ]
+    },
+    {
+        "cities-id": 19,
+        "places": [
+            {
+                "placesId": 136,
+                "placesName": "Chittoor",
+                "description": "Steeped in religion, devotion and architecture, Chittoor is a place that everyone should visit at least once in their lifetime. Also blessed with scenic beauty, cascading waterfalls and a beautiful hill station, Chittoor is not a disappointment to the traveller who seeks redemption from the busy metro life. Also known as the Mango City, Chittoor offers myriad varities of heavenly mangoes to please its visitors.",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/Kigal_falls_20181119211611_20181119211917.jpg"
+            },
+            {
+                "placesId": 137,
+                "placesName": "Rock Garden",
+                "description": "Also known as Silathoranam, the Rock Garden in the city is a natural stone formation in the shape of an arch. It is a Pre-Cambrian natural formation and is the only such found on the continent. Many believe that it is over this arch that Lord Venkateswara walked while he was on his way to Tirumala from Vaikunt.",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/Natural_stone_arch_in_tirumala_20190116143442.JPG"
+            },
+            {
+                "placesId": 138,
+                "placesName": "Talagona Waterfall",
+                "description": "Located in Sri Venkateswara National Park, Talakona Waterfall is the highest waterfall in the region and a famous picnic spot. The water is believed to have medicinal properties and comes from an unknown underground stream. The attraction is also famous for trekking and has several trekking routes running around it amidst the scenic natural surroundings.",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/Talakona_Fall_20180904190722.jpg"
+            },
+            {
+                "placesId": 139,
+                "placesName": "Padmavathi Ammavari Temple",
+                "description": "At a little distance from the main city area, one finds the Sri Padmavathi Ammavari Temple dedicated to Goddess Padmavathi. One of the many sacred structures of Tirupati, this one is home to many legends and stories about the Goddess.",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/1024px-Padmavati_ammavari_koneru_at_tirucanuru2C_tirupati_20190618212646.JPG"
+            }
+        ]
+    },
+    {
+        "cities-id": 20,
+        "places": [
+            {
+                "placesId": 140,
+                "placesName": "Ramoji Film City",
+                "description": "Located on the outskirts of Hyderabad, Ramoji Film City is certified as the World's largest Film Studio Complex by the Guinness Book of World Records. spread over 2500 acres, it can accommodate 20 film units at one go. One can reach Ramoji Film City through a number of packaged tours and buses that leave regularly from the city.",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/800px-Ramoji_Film_City_Hyderabad_-_views_from_Ramoji_Film_City_10_20200717105954.JPG"
+            },
+            {
+                "placesId": 141,
+                "placesName": "Lumbini Park",
+                "description": "Lumbini Park is a gorgeous urban park named after Lumbini of Nepal. Located alongside Hussain Sagar, the park has an artificial water tank. A huge statue of Lord Buddha is installed in the tank which can be reached through paddle boats. The park also holds musical fountain shows.",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/Lumbini_Park,_Hyderabad_20180806160809_20180806160909.jpg"
+            },
+            {
+                "placesId": 142,
+                "placesName": "Nehru Zoological Park",
+                "description": "With about a 100 species finding habitats here, the Nehru Zoological Park is one of the largest zoos in India. Also known as Hyderabad Zoo, it houses the Indian Rhino, Asiatic Lion, Bengal Tiger, Indian Elephant as well as panthers, pythons, deers, antelopes. The zoo also hosts safaris and educational shows.",
+                "imageUrl": "https://holidify.com/images/attr_wiki/compressed/attr_wiki_1029.jpg"
+            },
+            {
+                "placesId": 143,
+                "placesName": "Taj Falaknuma Palace",
+                "description": "Taj Falaknuma Palace is perched around 2000 metres above the city of Hyderabad. Once the royal residence of Nizam- probably the richest man in the world, the palace has now been converted into a five-star luxury heritage hotel.",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/Falaknuma_Palace_20180806155019_20180806155054.jpg"
+            }
+        ]
+    },
+    {
+        "cities-id": 21,
+        "places": [
+            {
+                "placesId": 144,
+                "placesName": "Rishikonda Beach",
+                "description": "The Rishikonda Beach also known as Rushikonda Beach is a stunning shore located on the coast of the Bay of Bengal in Vishakhapatnam, in the Indian state of Andhra Pradesh. APTDC, which is in charge of this natural beauty, has done a great job in the upkeep of the beach and ensured that this natural attraction remains unspoilt. The Rishikonda Beach is thus rightly named as the 'Jewel of the East Coast', owing to its essential and intact beauty. The serene golden sands of the beach are located in the bosom of the Rishikonda hill.",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/Rushikonda_beach_view_001_20170616092524.jpg"
+            },
+            {
+                "placesId": 145,
+                "placesName": "Victory at Sea War Memorial",
+                "description": "Victory at Sea War Memorial is located on Beach road and is frequently visited by tourists on their way to the beach. The monument has a pyre lit 24x7 in honour of the Indian martyrs. The well maintained monument often generates a sense of patriotism and pride in our countrymen who fight selflessly for the safety of our citizens.",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/1024px-War_Memorial2C_Vizag_20190729135035.jpg"
+            },
+            {
+                "placesId": 146,
+                "placesName": "Bheemili Beach",
+                "description": "The long beautiful and pristine Bheemunipatnam Beach is located at the assemblage of Gosthani River and the Bay of Bengal. It also houses the remains of a 17th century fort and cemetery, reveling history dating back to the Dutch era.",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/1024px-Bheemili22092018_20191125174448.jpg"
+            },
+            {
+                "placesId": 147,
+                "placesName": "Dolphin's Nose",
+                "description": "Very similar to a dolphins nose, this 174 m high rocky headland is situated in the south of Vizag . The nose seems to be protruding out towards the Bay of Bengal giving it a rather fascinating look.",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/ScreenShot2020-01-30at11.03.39AM_20200130110406.png"
+            }
+        ]
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "statesId": 1,
+        "statesName": "Tamilnadu",
+        "imageUrl": "https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/b/b/bb1f3de283f7b23914ee9429c7ef94abd23b168e4e5bcd62f9db3a4e0ad7864f/tamilnadu-map-slide1.png"
+    },
+    {
+        "statesId": 2,
+        "statesName": "Kerala",
+        "imageUrl": "https://i.pinimg.com/originals/12/d1/47/12d147a2f948bee8bc890c1c34ae473b.jpg"
+    },
+    {
+        "statesId": 3,
+        "statesName": "Karnataka",
+        "imageUrl": "https://cdn.sketchbubble.com/pub/media/catalog/product/optimized1/8/3/83a98ddfaa7b4e7a2b0a28ca71fda025901b080c1ef0e4510f4dd3a8b25bbe17/karnataka-map-slide1.png"
+    },
+    {
+        "statesId": 4,
+        "statesName": "Andhra Pradesh",
+        "imageUrl": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-8vfenmg6aiqnvo55s10he87lh7-20170123064526.Medi.jpeg"
+    }
+]

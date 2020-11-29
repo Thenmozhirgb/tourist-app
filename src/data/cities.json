@@ -1,0 +1,82 @@
+[
+    {
+        "states-id": 1,
+        "cities": [
+            {
+                "citiesId": 10,
+                "citiesName": "Chennai",
+                "imageUrl": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-c2i965174f61ok9jimkvsjna76-20170125065319.Medi.jpeg"
+            },
+            {
+                "citiesId": 11,
+                "citiesName": "Nilgiris",
+                "imageUrl": "https://s3.ap-southeast-1.amazonaws.com/images.deccanchronicle.com/dc-Cover-c2i965174f61ok9jimkvsjna76-20170125065319.Medi.jpeg"
+            },
+            {
+                "citiesId": 12,
+                "citiesName": "Mahabhalipuram",
+                "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR22Gq6O2Zi0c5VnOBhkJra_KF_Ro7wPeF5CQ&usqp=CAU"
+            }
+        ]
+    },
+    {
+        "states-id": 2,
+        "cities": [
+            {
+                "citiesId": 13,
+                "citiesName": "Munnar",
+                "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Wild_elephants%2C_Munnar.jpg/350px-Wild_elephants%2C_Munnar.jpg"
+            },
+            {
+                "citiesId": 14,
+                "citiesName": "Wayanad",
+                "imageUrl": "https://www.holidify.com/images/compressed/2094.jpg"
+            },
+            {
+                "citiesId": 15,
+                "citiesName": "Kochi",
+                "imageUrl": "https://www.holidify.com/images/compressed/2671.jpg"
+            }
+        ]
+    },
+    {
+        "states-id": 3,
+        "cities": [
+            {
+                "citiesId": 16,
+                "citiesName": "Coorg",
+                "imageUrl": "https://www.holidify.com/images/cmsuploads/compressed/attr_wiki_2074_20190221184613jpg"
+            },
+            {
+                "citiesId": 17,
+                "citiesName": "Bangalore",
+                "imageUrl": "https://holidify.com/images/attr_wiki/compressed/attr_wiki_2838.jpg"
+            },
+            {
+                "citiesId": 18,
+                "citiesName": "Mysore",
+                "imageUrl": "https://www.holidify.com/images/compressed/dest_wiki_11091.jpg"
+            }
+        ]
+    },
+    {
+        "states-id": 4,
+        "cities": [
+            {
+                "citiesId": 19,
+                "citiesName": "Tirupati",
+                "imageUrl": "https://www.holidify.com/images/compressed/3273.jpg?v=1.1"
+            },
+            {
+                "citiesId": 20,
+                "citiesName": "Hyderabad",
+                "imageUrl": "https://www.holidify.com/images/bgImages/HYDERABAD.jpg"
+            },
+            {
+                "citiesId": 21,
+                "citiesName": "Visakhapatnam",
+                "imageUrl": "https://www.holidify.com/images/bgImages/VISAKHAPATNAM.jpg"
+            }
+        ]
+    }
+]
