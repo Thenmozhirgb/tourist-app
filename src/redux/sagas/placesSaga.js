@@ -9,7 +9,7 @@ export function* fetchGetPlacesData(action) {
             payload: place
         });
 
-    }suresh
+    }
 
     catch ({ message }) {
         yield put({
