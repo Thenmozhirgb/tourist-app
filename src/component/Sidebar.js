@@ -2,9 +2,9 @@ import React, { Component } from "react";
 import City from "./City";
 import cities from "./../data/cities.json";
 import { getCities } from "../redux/actions/citiesAction";
-import {connect} from "react-redux";
-
- class Sidebar extends Component {
+import { connect } from "react-redux";
+import "./../styles/city.css";
+class Sidebar extends Component {
     constructor(props) {
         super(props);
         this.state = {
@@ -12,12 +12,12 @@ import {connect} from "react-redux";
         }
     }
     componentDidMount() {
-        this.props.getCities();
-}
+        this.props.getCities(4);
+    }
 
     render() {
         return (
-            <div>
+            <div className="p">
                 {
                     this.props.cities ? this.props.cities.map(citiesDetails => {
                         return (
@@ -37,7 +37,7 @@ const mapStateToProps = (cities) => ({
 });
 
 const mapDispatchToProps = dispatch => ({
-    getCities: () => dispatch(getCities())
+    getCities: (stateId) => dispatch(getCities(stateId))
 });
 
 export default connect(mapStateToProps, mapDispatchToProps)(Sidebar);
