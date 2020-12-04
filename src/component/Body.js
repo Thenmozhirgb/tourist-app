@@ -7,8 +7,10 @@ export default class Body extends Component {
     render() {
         return(
             <div>
+                <div>
                 <Header />
                 <Sidebar />
+                </div>
                 <Placelist />
             </div>
         )

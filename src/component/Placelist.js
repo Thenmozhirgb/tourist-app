@@ -3,6 +3,7 @@ import Place from "./Place";
 import places from "./../data/place.json";
 import { getPlaces } from "./../redux/actions/placesAction";
 import { connect } from "react-redux";
+import "./../styles/place.css";
 
 class Placelist extends Component {
     constructor(props) {
@@ -12,11 +13,11 @@ class Placelist extends Component {
         }
     }
     componentDidMount() {
-        this.props.getPlaces();
+        this.props.getPlaces(11);
     }
     render() {
         return (
-            <div>
+            <div className= "placeslist">
                 {
                     this.props.places ? this.props.places.map(placesDetails => {
                         return (
@@ -25,7 +26,7 @@ class Placelist extends Component {
                             </div>
                         );
                     }
-                    ) : "thenmozhi"
+                    ) : ""
                 }
             </div>
         )
@@ -36,7 +37,7 @@ const mapStateToProps = (places) => ({
 });
 
 const mapDispatchToProps = dispatch => ({
-    getPlaces: () => dispatch(getPlaces())
+    getPlaces: (citiesID) => dispatch(getPlaces(citiesID))
 });
 
 export default connect(mapStateToProps, mapDispatchToProps)(Placelist);

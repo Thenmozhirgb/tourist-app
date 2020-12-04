@@ -1,0 +1,20 @@
+.component-header {
+	padding: 15px;
+	position: relative;
+	font-weight: normal;
+	font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+	font-size: 64px;
+	text-align: center;
+	color: blue;
+	background-color: greenyellow;
+}
+
+.state-header div {
+	display: flex;
+	justify-content: center;
+}
+
+.state-header>* {
+	float: left;
+	margin-bottom: 35rem;
+}

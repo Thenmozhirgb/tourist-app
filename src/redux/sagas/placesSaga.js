@@ -2,11 +2,13 @@ import { takeLatest, call, put } from 'redux-saga/effects';
 import place from "./../../data/place.json";
 import {GET_PLACES, GET_PLACES_SUCCESS, GET_PLACES_ERROR} from "./../actions/placesAction";
 
-export function* fetchGetPlacesData(action) {
+export function* fetchGetPlacesData(citiesId) {
+    const placeData = place.find( placeDetail =>  placeDetail["cities-id"] === citiesId );
+    const placesList = placeData.places; 
     try {
         yield put({
             type: GET_PLACES_SUCCESS,
-            payload: place
+            payload: placesList
         });
 
     }

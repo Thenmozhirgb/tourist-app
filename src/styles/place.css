@@ -1,26 +1,23 @@
 p.solid {border-style: solid;}
-.sidebar{
-    display: flexbox;
- float: left; 
- height:0;  
- top: 0;
- margin-bottom: 25rem ;
-}
-.city-city {
+.placeslist{
     display: flex;
+    float: right;
     padding: 10px;
-    margin:10px;
-}
-.city-name{
+    box-sizing: border-box;
+   }
+/*.place-name{
     display: inline-block;
     text-align: center;
     position: absolute;
-}
-.city-img{
+}*/
+.place-img{
     top: 50%;
     left: 50%;
     width: 250px;
     height: 250px;
     display: block;
     border-style: groove;
+    align-items: center;
+    
+
 }
