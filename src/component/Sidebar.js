@@ -15,18 +15,6 @@ class Sidebar extends Component {
         cities: this.props.cities
     };
 
-    static getDerivereStateFromProps(props, state) {
-        if (props.cities !== state.cities) {
-            return {
-                cities: props.cities
-            };
-        }
-        return null;
-    }
-    shouldComponentUpdate(props){
-      return true
-    }
-
     componentDidMount() {
         this.props.getCities(1);
     }
@@ -57,6 +45,3 @@ const mapDispatchToProps = dispatch => ({
 });
 
 export default connect(mapStateToProps, mapDispatchToProps)(Sidebar);
-
-
-
