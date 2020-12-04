@@ -1,24 +1,23 @@
 import React, { Component } from "react";
 import "../styles/state.css";
-import Sidebar from "./Sidebar";
+import { connect } from "react-redux";
+import { getCities } from "../redux/actions/citiesAction";
 
-export default class States extends Component {
+class States extends Component {
     constructor(props) {
         super(props);
     }
 
-  /*handleClick () {
-    this.setState({cities: props.cities}) ;
-  }*/
-       
-    
+    handleClick = (statesId) => {
+        this.props.getCities(statesId);
+    }
+
     render() {
         return (
-            <div className="section-state">
+            <div className="section-state" onClick={() => this.handleClick(this.props.statesDetails.statesId)}>
                 <div className="section-state-name">
                     <h3>
-                        <a href="states.js" onClick={this.handleClick}>
-                            {this.props.statesDetails.statesName}</a>
+                        {this.props.statesDetails.statesName}
                     </h3>
                 </div>
                 <div className="section-state-img">
@@ -27,7 +26,14 @@ export default class States extends Component {
                         width="250"
                         height="250" />
                 </div>
-                            </div>
+                
+            </div>
         )
     }
 }
+
+const mapDispatchToProps = dispatch => ({
+    getCities: (statesId) => dispatch(getCities(statesId))
+});
+
+export default connect(null, mapDispatchToProps)(States);
