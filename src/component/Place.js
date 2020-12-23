@@ -4,16 +4,17 @@ export default class Place extends Component {
     constructor(props) {
         super(props);
     }
-    handleClick (){
-        alert("Hello!");
-    }
+   
     render() {
         return (
             <div>
-                <div className="place-name"><h3>
-                <a href="places.js" onClick={this.handleClick}>
-                    {this.props.placesDetails.placesName}</a>
-            </h3></div>
+                <div className="place-name">
+                    <h3>
+                
+                    {this.props.placesDetails.placesName}
+            </h3>
+            </div>
+    {/*{this.props.placesDetails.description}*/}
             <div className="place-img">
                 <img src={this.props.placesDetails.imageUrl}
                     alt=""

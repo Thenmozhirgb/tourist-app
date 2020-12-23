@@ -2,8 +2,11 @@ p.solid {border-style: solid;}
 .placeslist{
     display: flex;
     float: right;
-    padding: 10px;
     box-sizing: border-box;
+    margin-left: auto;
+    margin-right: auto;
+    padding-right: 15px;
+    padding-left: 15px;
    }
 /*.place-name{
     display: inline-block;

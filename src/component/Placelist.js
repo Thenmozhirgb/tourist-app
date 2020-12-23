@@ -12,8 +12,12 @@ class Placelist extends Component {
             places: places[0].places,
         }
     }
+
+    state = {
+        places: this.props.places
+    };
     componentDidMount() {
-        this.props.getPlaces(11);
+        this.props.getPlaces(10);
     }
     render() {
         return (
